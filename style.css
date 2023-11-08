@@ -15,10 +15,12 @@ p{
     font-family: Comic Sans Ms;
 }
 
-ul{line-height: 2.0;
+    ul{ font-size: 16px;
 
 }
 
-li{line-height: 2.0;
+li{font-size: 16px;
+
+}
 
 }
