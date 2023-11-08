@@ -1,16 +1,16 @@
 body{
-    background-color: rgb(246, 246, 229);
+    background-color: rgb(241, 241, 241);
 }
 
 
 h1{
-    color: rgb(26, 26, 152);
+    color: rgb(3, 3, 120);
     text-align: center;
 }
 
 p{
     text-align: justify;
-    line-height: 1.5;
+    line-height: 2.0;
     font-size: 16px;
     font-family: Comic Sans Ms;
 }
