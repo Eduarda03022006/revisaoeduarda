@@ -1,10 +1,12 @@
 body{
     background-color:#142601;
+    color: #FEEAD6;
+    font-family: comic sans ms;
 }
 
 
 h1{
-    color: rgb(3, 3, 120);
+    color: ;
     text-align: center;
 }
 
@@ -15,12 +17,11 @@ p{
     font-family: Comic Sans Ms;
 }
 
-    ul{ font-size: 16px;
-
+ul{ 
+    font-size: 16px;
 }
 
-li{font-size: 16px;
-
+li{
+    font-size: 16px;
 }
 
-}
